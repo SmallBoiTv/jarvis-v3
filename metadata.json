@@ -1,0 +1,16 @@
+﻿{
+    "backingModels":  [
+                          "glm-5.2",
+                          "gemma4:31b",
+                          "qwen3.6:27b",
+                          "kimi-k3"
+                      ],
+    "updatedAt":  1785525755765,
+    "description":  "General-purpose composite model with multi-backing routing",
+    "baseModel":  "glm-5.2",
+    "modelId":  "jarvis-v3",
+    "samplesCount":  0,
+    "name":  "Jarvis V3",
+    "currentVersion":  "jarvis-v1-initial",
+    "lastSync":  1785525755765
+}
